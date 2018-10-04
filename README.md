@@ -1,2 +1,2 @@
 # LearningDataScience
-In this repository I note my learnings mostly in Machine Learning from different Courses and own experiments.
+In this repository I note my learnings from Machine Learning courses and own experiments.
